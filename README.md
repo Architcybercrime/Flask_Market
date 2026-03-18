@@ -153,6 +153,8 @@ Open your browser and go to: **http://127.0.0.1:5000**
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Open a Pull Request
 
+See [CONTRIBUTORS.md](CONTRIBUTORS.md) for the full list of contributors and collaborators.
+
 ---
 
 ## 📄 License
@@ -161,12 +163,14 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author & Collaborators
 
-**Archit Agrawal**
+**Archit Agrawal** — Creator & Maintainer
 - GitHub: [@Architcybercrime](https://github.com/Architcybercrime)
 - Email: architagrawalking@gmail.com
 - LeetCode: [leetcode.com/u/yO3MAhboDD](https://leetcode.com/u/yO3MAhboDD/)
+
+See [CONTRIBUTORS.md](CONTRIBUTORS.md) for all collaborators.
 
 ---
 
